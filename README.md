@@ -7,3 +7,6 @@ Alıştırmada 3 adet servis kullanılmaktadır.
 /api/sepet
 /api/urun
 /api/siparis
+
+
+Kullanılan nuget package'lar
