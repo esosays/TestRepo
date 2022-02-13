@@ -14,6 +14,8 @@ TestRestFulAPI için;
 
 Install-Package Microsoft.AspNetCore.Mvc.NewtonsoftJson -Version 3.1.22
 
+TestRestFullAPI.UnitTest için;
+
 Install-Package Microsoft.AspNet.WebApi.Client -Version 5.2.7
 
 Install-Package Microsoft.AspNetCore.TestHost -Version 3.1.22
