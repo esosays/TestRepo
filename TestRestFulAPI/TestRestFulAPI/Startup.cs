@@ -69,6 +69,9 @@ namespace TestRestFulAPI
 
             app.UseRouting();
 
+
+            //test2
+
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
