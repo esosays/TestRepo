@@ -1,0 +1,17 @@
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\b\TestRestFullAPI.UnitTest\Debug\netcoreapp3.1\TestRestFulAPI.deps.json
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\b\TestRestFullAPI.UnitTest\Debug\netcoreapp3.1\TestRestFulAPI.runtimeconfig.json
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\b\TestRestFullAPI.UnitTest\Debug\netcoreapp3.1\TestRestFulAPI.runtimeconfig.dev.json
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\b\TestRestFullAPI.UnitTest\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\b\TestRestFullAPI.UnitTest\Debug\netcoreapp3.1\appsettings.json
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\b\TestRestFullAPI.UnitTest\Debug\netcoreapp3.1\appsettings.Testing.json
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\b\TestRestFullAPI.UnitTest\Debug\netcoreapp3.1\TestRestFulAPI.exe
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\b\TestRestFullAPI.UnitTest\Debug\netcoreapp3.1\TestRestFullAPI.UnitTest.deps.json
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\b\TestRestFullAPI.UnitTest\Debug\netcoreapp3.1\TestRestFullAPI.UnitTest.runtimeconfig.json
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\b\TestRestFullAPI.UnitTest\Debug\netcoreapp3.1\TestRestFullAPI.UnitTest.runtimeconfig.dev.json
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\b\TestRestFullAPI.UnitTest\Debug\netcoreapp3.1\TestRestFullAPI.UnitTest.dll
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\i\TestRestFullAPI.UnitTest\Debug\netcoreapp3.1\TestRestFullAPI.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\i\TestRestFullAPI.UnitTest\Debug\netcoreapp3.1\TestRestFullAPI.UnitTest.AssemblyInfoInputs.cache
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\i\TestRestFullAPI.UnitTest\Debug\netcoreapp3.1\TestRestFullAPI.UnitTest.AssemblyInfo.cs
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\i\TestRestFullAPI.UnitTest\Debug\netcoreapp3.1\TestRestFullAPI.UnitTest.csproj.CopyComplete
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\i\TestRestFullAPI.UnitTest\Debug\netcoreapp3.1\TestRestFullAPI.UnitTest.dll
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\i\TestRestFullAPI.UnitTest\Debug\netcoreapp3.1\TestRestFullAPI.UnitTest.genruntimeconfig.cache

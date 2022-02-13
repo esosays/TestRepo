@@ -1,0 +1,17 @@
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\b\TestRestFulAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\b\TestRestFulAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\b\TestRestFulAPI\bin\Debug\netcoreapp3.1\appsettings.Testing.json
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\b\TestRestFulAPI\bin\Debug\netcoreapp3.1\TestRestFulAPI.exe
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\b\TestRestFulAPI\bin\Debug\netcoreapp3.1\TestRestFulAPI.deps.json
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\b\TestRestFulAPI\bin\Debug\netcoreapp3.1\TestRestFulAPI.runtimeconfig.json
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\b\TestRestFulAPI\bin\Debug\netcoreapp3.1\TestRestFulAPI.runtimeconfig.dev.json
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\b\TestRestFulAPI\bin\Debug\netcoreapp3.1\TestRestFulAPI.dll
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\i\TestRestFulAPI\netcoreapp3.1\TestRestFulAPI.csproj.AssemblyReference.cache
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\i\TestRestFulAPI\netcoreapp3.1\TestRestFulAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\i\TestRestFulAPI\netcoreapp3.1\TestRestFulAPI.AssemblyInfoInputs.cache
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\i\TestRestFulAPI\netcoreapp3.1\TestRestFulAPI.AssemblyInfo.cs
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\i\TestRestFulAPI\netcoreapp3.1\staticwebassets\TestRestFulAPI.StaticWebAssets.Manifest.cache
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\i\TestRestFulAPI\netcoreapp3.1\TestRestFulAPI.RazorTargetAssemblyInfo.cache
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\i\TestRestFulAPI\netcoreapp3.1\TestRestFulAPI.csproj.CopyComplete
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\i\TestRestFulAPI\netcoreapp3.1\TestRestFulAPI.dll
+C:\Users\YetkinLaptop\Documents\GitHub\TestRepo\TestRestFulAPI\.vs\TestRestFulAPI\v16\lut\0\i\TestRestFulAPI\netcoreapp3.1\TestRestFulAPI.genruntimeconfig.cache
