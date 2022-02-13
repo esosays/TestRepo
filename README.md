@@ -7,6 +7,9 @@ Alıştırmada 3 adet servis kullanılmaktadır.
 
 /api/siparis
 
+Ayrıca siparişi oluşacak ürünlerin miktar kontrolleri yapılmaktadır.
+Aynı müşteriye aynı ürün satılamaz kontrolünü de barındırmaktadır.
+
 
 Kullanılan nuget package'lar
 
