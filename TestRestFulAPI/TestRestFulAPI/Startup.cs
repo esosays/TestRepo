@@ -58,20 +58,9 @@ namespace TestRestFulAPI
             {
                 app.UseHsts();
             }
-
-
-
-            //////
-            ///
-
-
             app.UseHttpsRedirection();
 
             app.UseRouting();
-
-
-            //test2
-
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
